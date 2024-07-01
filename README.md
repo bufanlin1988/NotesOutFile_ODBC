@@ -1,3 +1,3 @@
 # NotesOutFile_ODBC
 把Notes视图中数据迁移到ODBC数据库中，附件转换到本地
-请注意当前语言是lotusscript，不是vbscript
+请注意当前语言使用是lotusscript
